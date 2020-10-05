@@ -3,7 +3,7 @@ Analysis of NYC Citi-bike sharing was done using Tableau. Worksheet, dashborad a
 
 # NYC Citi Bike Analysis 
 Citi bike is widely use in New York City. Local residents and tourists were using shared bike to commute insides of city. Analysis was done for NYC and results can be use as a reference to other major city, for example, Des Moines
-Visit the dashboard for NYC Citi Bike Analysis: [https://public.tableau.com/profile/priscilla.lin#!/vizhome/NYC_Bike_Sharing_Program/BikeSharingAnalysis?publish=yes](LINK GOES HERE "link to dashboard")
+Visit the dashboard for NYC Citi Bike Analysis: [link to dashboard](https://public.tableau.com/profile/priscilla.lin#!/vizhome/NYC_Bike_Sharing_Program/BikeSharingAnalysis?publish=yes "link to dashboard")
 
 ## Proposal for Sharing-Bike program in Des Moines
 According to the U.S. Census, the estimated population of Des Moines in 2010 is 203,433. The population per square mile is 2429/46. Comparing to New York City, the city of Des Moines is not a densely populated city. However, Des Moines is a great place for a visit. The city of Des Moines is a cultural center for Iowa, and there are people visiting for festival and some special events throughout the year. 
